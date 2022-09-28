@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Finalmente, algo de paz el dia de hoy",
+			"voice": "gf1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Beep Bap Bo, Bo Bee Bap",
+			"voice": "bf1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "",
+			"voice": "vineboom",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "metal"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Ay no conchetumare me voy a matar en vivo",
+			"voice": "gf2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Como que hot-dog aweonao? que te crei gringo perkin y la conchetumare enano culiao como te veni a pedir senda wea pedazo de gil pasao a raja hijo de la grandisima perra maraca ql",
+			"voice": "sonic1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "metal"
+		},
+		{
+			"expression": "shocked",
+			"backImage": "",
+			"text": "bee-",
+			"voice": "bf2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Quee te crei choro, mira el saquito de wea ni hablai bien por algo teniai de pololo al weon que se llamaba pico pq eri un weon weno pal PICO, como el sonic,asi igual de gringo y de weon si segui asi ctm te voy a sacar la re ctm enano qliao maricon de a peso weno pa la tula. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"voice": "sonic2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "metal"
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "Oye pero quien cresta le dice hot-dogs a los completos?!",
+			"boxState": "normal",
+			"voice": "lloncito",
+			"portrait": "huerfano",
+			"speed": 0.025,
+			"sound": ""
+		}
+	],
+	"directory": "5sonic"
+}

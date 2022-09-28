@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "[Sigh] Finally, some peace for today.",
+			"boxState": "normal",
+			"voice": "gf1",
+			"portrait": "gf",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "Beep Bap Bo, Bo Bee Bap",
+			"boxState": "normal",
+			"voice": "bf1",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"voice": "vineboom",
+			"portrait": "metal",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "oh no",
+			"boxState": "normal",
+			"voice": "gf2",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "Como que hot-dog aweonao? que te crei gringo perkin y la conchetumare enano culiao como te veni a pedir senda wea pedazo de gil pasao a raja hijo de la grandisima perra maraca ql",
+			"boxState": "normal",
+			"voice": "sonic1",
+			"portrait": "metal",
+			"speed": 0.015,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "shocked",
+			"text": "bee-",
+			"boxState": "normal",
+			"voice": "bf2",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "Quee te crei choro, mira el saquito de wea ni hablai bien por algo teniai de pololo al weon que se llamaba pico pq eri un weon weno pal PICO, como el sonic,asi igual de gringo y de weon si segui asi ctm te voy a sacar la re ctm enano qliao maricon de a peso weno pa la tula. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"boxState": "normal",
+			"voice": "sonic2",
+			"portrait": "metal",
+			"speed": 0.00500000000000001,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "How does that midget dares to call completos 'Hot Dogs'?!",
+			"voice": "lloncito",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "huerfano"
+		}
+	],
+	"directory": "5sonic"
+}
