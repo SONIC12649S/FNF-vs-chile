@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Monos Idle0000" x="10" y="10" width="1278" height="1025" frameX="0" frameY="-12" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0001" x="10" y="10" width="1278" height="1025" frameX="0" frameY="-12" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0002" x="1298" y="10" width="1280" height="1046" frameX="-2" frameY="0" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0003" x="1298" y="10" width="1280" height="1046" frameX="-2" frameY="0" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0004" x="2588" y="10" width="1279" height="1035" frameX="-4" frameY="0" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0005" x="2588" y="10" width="1279" height="1035" frameX="-4" frameY="0" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0006" x="10" y="1066" width="1275" height="1026" frameX="-8" frameY="-4" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0007" x="10" y="1066" width="1275" height="1026" frameX="-8" frameY="-4" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0008" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0009" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0010" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0011" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0012" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+	<SubTexture name="Monos Idle0013" x="1295" y="1066" width="1273" height="1024" frameX="-10" frameY="-6" frameWidth="1283" frameHeight="1046"/>
+</TextureAtlas>

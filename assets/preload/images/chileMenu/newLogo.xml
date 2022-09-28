@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newLogo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bumpin0000" x="0" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0001" x="0" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0002" x="1780" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0003" x="0" y="1134" width="1741" height="1095"/>
+	<SubTexture name="bumpin0004" x="0" y="1134" width="1741" height="1095"/>
+	<SubTexture name="bumpin0005" x="1780" y="1134" width="1741" height="1095"/>
+	<SubTexture name="bumpin0006" x="1780" y="1134" width="1741" height="1095"/>
+	<SubTexture name="bumpin0007" x="0" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0008" x="0" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0009" x="0" y="0" width="1741" height="1095"/>
+	<SubTexture name="bumpin0010" x="0" y="0" width="1741" height="1095"/>
+</TextureAtlas>
