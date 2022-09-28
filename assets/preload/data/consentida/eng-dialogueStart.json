@@ -1,0 +1,155 @@
+{
+	"dialogue": [
+		{
+			"backImage": "0",
+			"expression": "enojao",
+			"text": "Alright idiots, c'mere.",
+			"boxState": "normal",
+			"voice": "1",
+			"portrait": "papito",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "0",
+			"expression": "talk",
+			"text": "Bap bop",
+			"boxState": "normal",
+			"voice": "2",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "0",
+			"expression": "happy",
+			"text": "C'mon, i'm hungry. Go buy some charcoal for the grill at Unimarc.",
+			"boxState": "normal",
+			"voice": "3",
+			"portrait": "papito",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "excited",
+			"text": "bap",
+			"boxState": "normal",
+			"voice": "4",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "talk",
+			"text": "Where could the charcoal be?",
+			"boxState": "normal",
+			"voice": "5",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "pissed",
+			"text": "Bap!",
+			"boxState": "normal",
+			"voice": "4",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "talk",
+			"text": "Fuckin'... stop playing around, we-",
+			"boxState": "normal",
+			"voice": "7",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "confused",
+			"text": "Bobepibep bapara bupbiap!",
+			"boxState": "normal",
+			"voice": "8",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "angry",
+			"text": "HEY DUMBASS! Why'd you say that?!",
+			"boxState": "angry",
+			"voice": "9",
+			"portrait": "Ivette",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "7",
+			"expression": "what",
+			"text": "Huh? What'cha doin' here, little man\"?",
+			"boxState": "normal",
+			"voice": "10",
+			"portrait": "maavo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "7",
+			"expression": "shocked",
+			"text": "Beep...",
+			"boxState": "normal",
+			"voice": "11",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "8",
+			"expression": "happy",
+			"text": "HI LITTLE GUY! Do you remember me?",
+			"boxState": "normal",
+			"voice": "12",
+			"portrait": "maritza",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "9",
+			"expression": "confused",
+			"text": "...???",
+			"boxState": "normal",
+			"voice": "13",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "10",
+			"expression": "normal",
+			"text": "Did ya come here for a rematch? Too bad, cuz' i'm more than ready now!",
+			"boxState": "normal",
+			"voice": "14",
+			"portrait": "maritza",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "10",
+			"expression": "talk",
+			"text": "Wait, do none of you guys know where the charcoal is?",
+			"boxState": "normal",
+			"voice": "15",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	],
+	"directory": "1maritza"
+}
