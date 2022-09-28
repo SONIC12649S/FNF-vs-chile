@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selectmenu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter0000" x="8" y="8" width="112" height="123"/>
+	<SubTexture name="enter0001" x="8" y="8" width="112" height="123"/>
+	<SubTexture name="enter0002" x="128" y="8" width="112" height="123"/>
+	<SubTexture name="enter0003" x="128" y="8" width="112" height="123"/>
+	<SubTexture name="select0000" x="8" y="139" width="37" height="69"/>
+	<SubTexture name="select0001" x="8" y="139" width="37" height="69"/>
+	<SubTexture name="select0002" x="53" y="139" width="37" height="69"/>
+	<SubTexture name="select0003" x="53" y="139" width="37" height="69"/>
+</TextureAtlas>
