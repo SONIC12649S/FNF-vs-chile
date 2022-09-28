@@ -1,0 +1,215 @@
+{
+	"dialogue": [
+		{
+			"backImage": "0",
+			"expression": "pissed",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"voice": "38",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "0",
+			"expression": "talk",
+			"text": "Good job, it's been a while since we had this much fun and nothing bad happens, sweetie",
+			"boxState": "normal",
+			"voice": "1",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "talk",
+			"text": "IT CAN'T BE!",
+			"boxState": "normal",
+			"voice": "2",
+			"portrait": "maritza2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "talk",
+			"text": "For fuck’s sake",
+			"boxState": "normal",
+			"voice": "3",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "confused",
+			"text": "Boyfriend?",
+			"boxState": "normal",
+			"voice": "4",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Yooo, like, how's it goin’, man?",
+			"boxState": "normal",
+			"voice": "5",
+			"portrait": "shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Boyfriend!  It's been so long, man!",
+			"boxState": "normal",
+			"voice": "6",
+			"portrait": "maavo2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "talk",
+			"text": "LITTLE GUY!",
+			"boxState": "normal",
+			"voice": "7",
+			"portrait": "maritza2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Is there any place where you guys aren’t at?",
+			"boxState": "normal",
+			"voice": "8",
+			"portrait": "ivette",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Ah, c'mon Ivette, don't be mean to him",
+			"boxState": "normal",
+			"voice": "9",
+			"portrait": "maavo2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "...Okaay okaay, i missed you too guys.",
+			"boxState": "normal",
+			"voice": "10",
+			"portrait": "ivette",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "talk",
+			"text": "I’m not gonna lie, man. I missed y'all.",
+			"boxState": "normal",
+			"voice": "11",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Beep Bop!",
+			"boxState": "normal",
+			"voice": "39",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "talk",
+			"text": "FOR FUCK’S SAKE, BOYFRIEND! WHY DOES THIS HAS TO HAPPEN EVERY FUCKING YEAR. PLEASE, I’M TIRED OF THIS. LET’S GET OUTTA HERE ALREADY",
+			"boxState": "normal",
+			"voice": "12",
+			"portrait": "gf",
+			"speed": 0.00500000000000001,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "shocked",
+			"text": "Like, damn bitch calm the fuck down. This shit isn't even gonna take 10 minutes",
+			"boxState": "normal",
+			"voice": "13",
+			"portrait": "shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": " So, we're doin' it like last year?",
+			"boxState": "normal",
+			"voice": "14",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "YEAAAAH!",
+			"boxState": "normal",
+			"voice": "15",
+			"portrait": "thegang",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "Well then, you go first, Maritza",
+			"boxState": "normal",
+			"voice": "17",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "[crying]",
+			"boxState": "normal",
+			"voice": "18",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "YEAHHH! Hope you're ready, little guy!",
+			"boxState": "normal",
+			"voice": "19",
+			"portrait": "maritza2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "6",
+			"expression": "normal",
+			"text": "Beat his ass, Maritza!",
+			"boxState": "normal",
+			"voice": "20",
+			"portrait": "maavo2",
+			"speed": 0.05,
+			"sound": ""
+		}
+	],
+	"directory": "4revancha"
+}
