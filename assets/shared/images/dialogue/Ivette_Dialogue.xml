@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ivette_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angi0000" x="10" y="10" width="564" height="815" frameX="0" frameY="-1" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0001" x="10" y="10" width="564" height="815" frameX="0" frameY="-1" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0002" x="10" y="10" width="564" height="815" frameX="0" frameY="-1" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0003" x="584" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0004" x="584" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0005" x="584" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0006" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0007" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angi0008" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angiIdle0000" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angiIdle0001" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angiIdle0002" x="1158" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="ivyl0000" x="10" y="835" width="564" height="815" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0001" x="10" y="835" width="564" height="815" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0002" x="10" y="835" width="564" height="815" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0003" x="584" y="835" width="564" height="815" frameX="-1" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0004" x="584" y="835" width="564" height="815" frameX="-1" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0005" x="584" y="835" width="564" height="815" frameX="-1" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0006" x="1158" y="835" width="564" height="814" frameX="0" frameY="-1" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0007" x="1158" y="835" width="564" height="814" frameX="0" frameY="-1" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="ivyl0008" x="1158" y="835" width="564" height="814" frameX="0" frameY="-1" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="xd0000" x="1158" y="835" width="564" height="814" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="xd0001" x="1158" y="835" width="564" height="814" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="xd0002" x="1158" y="835" width="564" height="814" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+</TextureAtlas>

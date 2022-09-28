@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thegang.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thegang0000" x="10" y="10" width="2178" height="1708"/>
+	<SubTexture name="thegang0001" x="10" y="10" width="2178" height="1708"/>
+	<SubTexture name="thegang0002" x="10" y="10" width="2178" height="1708"/>
+	<SubTexture name="thegang0003" x="10" y="1728" width="2178" height="1708"/>
+	<SubTexture name="thegang0004" x="10" y="1728" width="2178" height="1708"/>
+	<SubTexture name="thegang0005" x="10" y="1728" width="2178" height="1708"/>
+	<SubTexture name="thegang0006" x="10" y="3446" width="2178" height="1708"/>
+	<SubTexture name="thegang0007" x="10" y="3446" width="2178" height="1708"/>
+	<SubTexture name="thegang0008" x="10" y="3446" width="2178" height="1708"/>
+	<SubTexture name="thegangidle0000" x="10" y="5164" width="2177" height="1707"/>
+</TextureAtlas>

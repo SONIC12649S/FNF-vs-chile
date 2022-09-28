@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MaritzaPortraitweek2.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maritzaHappy0000" x="10" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0001" x="10" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0002" x="10" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0003" x="1688" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0004" x="1688" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0005" x="1688" y="10" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0006" x="10" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0007" x="10" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappy0008" x="10" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappyIdle0000" x="1688" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappyIdle0001" x="1688" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaHappyIdle0002" x="1688" y="1259" width="1668" height="1239"/>
+	<SubTexture name="maritzaNormal0000" x="10" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0001" x="10" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0002" x="10" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0003" x="1688" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0004" x="1688" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0005" x="1688" y="2508" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0006" x="10" y="3751" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0007" x="10" y="3751" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormal0008" x="10" y="3751" width="1668" height="1233"/>
+	<SubTexture name="maritzaNormalIdle0000" x="1688" y="3751" width="1668" height="1232"/>
+	<SubTexture name="maritzaNormalIdle0001" x="1688" y="3751" width="1668" height="1232"/>
+	<SubTexture name="maritzaNormalIdle0002" x="1688" y="3751" width="1668" height="1232"/>
+</TextureAtlas>

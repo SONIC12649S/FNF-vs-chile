@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScoobyDou_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="holyshit0000" x="10" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0001" x="10" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0002" x="10" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0003" x="685" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0004" x="685" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0005" x="685" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0006" x="1360" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0007" x="1360" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshit0008" x="1360" y="10" width="665" height="1360"/>
+	<SubTexture name="holyshitIdle0000" x="2035" y="10" width="665" height="1359"/>
+	<SubTexture name="holyshitIdle0001" x="2035" y="10" width="665" height="1359"/>
+	<SubTexture name="holyshitIdle0002" x="2035" y="10" width="665" height="1359"/>
+	<SubTexture name="nom0000" x="2710" y="10" width="713" height="1201"/>
+	<SubTexture name="nom0001" x="2710" y="10" width="713" height="1201"/>
+	<SubTexture name="nom0002" x="2710" y="10" width="713" height="1201"/>
+	<SubTexture name="nom0003" x="10" y="1380" width="713" height="1201"/>
+	<SubTexture name="nom0004" x="10" y="1380" width="713" height="1201"/>
+	<SubTexture name="nom0005" x="10" y="1380" width="713" height="1201"/>
+	<SubTexture name="nom0006" x="733" y="1380" width="713" height="1201"/>
+	<SubTexture name="nom0007" x="733" y="1380" width="713" height="1201"/>
+	<SubTexture name="nom0008" x="733" y="1380" width="713" height="1201"/>
+	<SubTexture name="nomIdle0000" x="1456" y="1380" width="675" height="1197"/>
+	<SubTexture name="nomIdle0001" x="1456" y="1380" width="675" height="1197"/>
+	<SubTexture name="nomIdle0002" x="1456" y="1380" width="675" height="1197"/>
+	<SubTexture name="perritohablando0000" x="2141" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0001" x="2141" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0002" x="2141" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0003" x="2843" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0004" x="2843" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0005" x="2843" y="1380" width="692" height="1124"/>
+	<SubTexture name="perritohablando0006" x="10" y="2591" width="692" height="1124"/>
+	<SubTexture name="perritohablando0007" x="10" y="2591" width="692" height="1124"/>
+	<SubTexture name="perritohablando0008" x="10" y="2591" width="692" height="1124"/>
+	<SubTexture name="perritohablandoIdle0000" x="712" y="2591" width="692" height="1123"/>
+	<SubTexture name="perritohablandoIdle0001" x="712" y="2591" width="692" height="1123"/>
+	<SubTexture name="perritohablandoIdle0002" x="712" y="2591" width="692" height="1123"/>
+	<SubTexture name="xd0000" x="1414" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0001" x="1414" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0002" x="1414" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0003" x="2173" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0004" x="2173" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0005" x="2173" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0006" x="2932" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0007" x="2932" y="2591" width="749" height="1096"/>
+	<SubTexture name="xd0008" x="2932" y="2591" width="749" height="1096"/>
+	<SubTexture name="xdIdle0000" x="10" y="3725" width="746" height="1078"/>
+	<SubTexture name="xdIdle0001" x="10" y="3725" width="746" height="1078"/>
+	<SubTexture name="xdIdle0002" x="10" y="3725" width="746" height="1078"/>
+</TextureAtlas>

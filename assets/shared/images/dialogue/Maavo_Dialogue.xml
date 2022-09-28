@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maavo_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mavo0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0001" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0002" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0003" x="668" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0004" x="668" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0005" x="668" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0006" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0007" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Mavo0008" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="MavoIdle0000" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="MavoIdle0001" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="MavoIdle0002" x="1326" y="10" width="648" height="717" frameX="0" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Scared0000" x="10" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0001" x="10" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0002" x="10" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0003" x="669" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0004" x="669" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0005" x="669" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0006" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0007" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="Scared0008" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="ScaredIdle0000" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="ScaredIdle0001" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="ScaredIdle0002" x="1328" y="737" width="649" height="718"/>
+	<SubTexture name="qwea0000" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0001" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0002" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0003" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0004" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0005" x="10" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0006" x="668" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0007" x="668" y="1465" width="648" height="717"/>
+	<SubTexture name="qwea0008" x="668" y="1465" width="648" height="717"/>
+	<SubTexture name="qweaIdle0000" x="668" y="1465" width="648" height="717"/>
+	<SubTexture name="qweaIdle0001" x="668" y="1465" width="648" height="717"/>
+	<SubTexture name="qweaIdle0002" x="668" y="1465" width="648" height="717"/>
+</TextureAtlas>

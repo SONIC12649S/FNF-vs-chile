@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screwytalk.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boca cerrar0000" x="0" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0001" x="365" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0002" x="730" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0003" x="1095" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0004" x="1460" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0005" x="1825" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0006" x="2190" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0007" x="2555" y="0" width="365" height="573"/>
+	<SubTexture name="boca cerrar0008" x="2920" y="0" width="365" height="573"/>
+	<SubTexture name="hablar0000" x="3285" y="0" width="365" height="573"/>
+	<SubTexture name="hablar0001" x="3650" y="0" width="365" height="573"/>
+	<SubTexture name="hablar0002" x="0" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0003" x="365" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0004" x="730" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0005" x="1095" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0006" x="1460" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0007" x="1825" y="573" width="365" height="573"/>
+	<SubTexture name="hablar0008" x="2190" y="573" width="365" height="573"/>
+</TextureAtlas>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mabo2.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MavoScaredchad0000" x="10" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0001" x="10" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0002" x="10" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0003" x="559" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0004" x="559" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0005" x="559" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0006" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0007" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchad0008" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchadIdle0000" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchadIdle0001" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoScaredchadIdle0002" x="1108" y="10" width="539" height="791"/>
+	<SubTexture name="MavoWhatchad0000" x="10" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0001" x="10" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0002" x="10" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0003" x="560" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0004" x="560" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0005" x="560" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0006" x="1110" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0007" x="1110" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchad0008" x="1110" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchadIdle0000" x="1110" y="811" width="540" height="791"/>
+	<SubTexture name="MavoWhatchadIdle0001" x="1110" y="811" width="540" height="791"/>
+	<SubTexture name="Mavochad0000" x="10" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0001" x="10" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0002" x="10" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0003" x="560" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0004" x="560" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0005" x="560" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0006" x="1110" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0007" x="1110" y="1612" width="540" height="791"/>
+	<SubTexture name="Mavochad0008" x="1110" y="1612" width="540" height="791"/>
+	<SubTexture name="MavochadIdle0000" x="1110" y="1612" width="540" height="791"/>
+	<SubTexture name="MavochadIdle0001" x="1110" y="1612" width="540" height="791"/>
+	<SubTexture name="MavochadIdle0002" x="1110" y="1612" width="540" height="791"/>
+</TextureAtlas>
