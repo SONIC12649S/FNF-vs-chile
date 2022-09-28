@@ -1,0 +1,75 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Hello im Derker bluer voice acting Bodoque from 31 minutos because Álvaro Diaz said no",
+			"voice": "39",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "drukis"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "What? A rap battle?",
+			"voice": "40",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Bap!",
+			"voice": "41",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Ah, you must be that ugly creature from that one game my nephews play on their computer",
+			"voice": "42",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Bip!",
+			"voice": "43",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "I don't really get it, but if my nephews know you, it must be because you have a lot of money",
+			"voice": "44",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "And, a rap battle sounds like a bet i can win.",
+			"voice": "45",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bodoque"
+		}
+	],
+	"directory": "4"
+}
