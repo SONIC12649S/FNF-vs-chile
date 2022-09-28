@@ -1,0 +1,145 @@
+{
+	"dialogue": [
+		{
+			"backImage": "1",
+			"expression": "happy",
+			"text": "Wow, no sabia que se podia bailar la cueca asi",
+			"boxState": "normal",
+			"voice": "1",
+			"portrait": "maritza",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "normal",
+			"text": "Es porque eso no fue cueca...",
+			"boxState": "normal",
+			"voice": "2",
+			"portrait": "Ivette",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "Funny",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "3",
+			"portrait": "maritza",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "hungry",
+			"text": "¿Donde estaran los chorizos?",
+			"boxState": "normal",
+			"voice": "4",
+			"portrait": "ScoobyDou",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "¡Scooby! ¡Scooby! Chucha ahi estai amigo",
+			"boxState": "normal",
+			"voice": "5",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "normal",
+			"text": "¿Shaggy? ¿Scooby? ¿Wena, que hacen ustedes dos aqui?",
+			"boxState": "normal",
+			"voice": "6",
+			"portrait": "maavo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "Pos que mas po? Aqui comprando cosas pa la previa amigo",
+			"boxState": "normal",
+			"voice": "7",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "Wena po Shaggy encontre el pasillo de los fiambres",
+			"boxState": "normal",
+			"voice": "8",
+			"portrait": "ScoobyDou",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "excited",
+			"text": "Caracoles Scooby, deja de dar hambre",
+			"boxState": "normal",
+			"voice": "9",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "excited",
+			"text": "Beep",
+			"boxState": "normal",
+			"voice": "10",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "Oh tu tambien estas aqui viejo, ya que estamos ¿No te parece que probemos que tan fuerte te has vuelto?",
+			"boxState": "normal",
+			"voice": "11",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "9",
+			"expression": "talk",
+			"text": "Momento, solo queremos carbon",
+			"boxState": "normal",
+			"voice": "12",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "8",
+			"expression": "talk",
+			"text": "Boop",
+			"boxState": "normal",
+			"voice": "13",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "6",
+			"expression": "excited",
+			"text": "Muy bien, pero dejame advertirte que no soy el mismo cuando tengo hambre",
+			"boxState": "normal",
+			"voice": "14",
+			"portrait": "shaggy",
+			"speed": 0.05,
+			"sound": ""
+		}
+	],
+	"directory": "2shaggy"
+}

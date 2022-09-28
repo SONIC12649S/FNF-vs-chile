@@ -1,0 +1,145 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"backImage": "1",
+			"text": "Wow, I didn't know you could dance cueca like that!",
+			"voice": "1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "normal",
+			"backImage": "1",
+			"text": "That's because it wasn't cueca...",
+			"voice": "2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Ivette"
+		},
+		{
+			"expression": "Funny",
+			"backImage": "1",
+			"text": "...",
+			"voice": "3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "hungry",
+			"backImage": "2",
+			"text": "Where are the sausages?",
+			"voice": "4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "3",
+			"text": "Scooby! Scooby! Oh, there you are, pal!",
+			"voice": "5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "normal",
+			"backImage": "4",
+			"text": "Shaggy? Scooby? Dude! What are you two doing here?",
+			"voice": "6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "maavo"
+		},
+		{
+			"expression": "talk",
+			"backImage": "5",
+			"text": "Buyin' stuff for the pre-party, like, what else would I be doing, man?",
+			"voice": "7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "talk",
+			"backImage": "4",
+			"text": "Yo Shaggy, I found the meat aisle!",
+			"voice": "8",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "4",
+			"text": "Zoinks Scoob, stop makin' me hungry",
+			"voice": "9",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "excited",
+			"backImage": "7",
+			"text": "Beep",
+			"voice": "10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"backImage": "5",
+			"text": "Oh, you're here too, man! now that we're here, dont't ya like, wanna se how strong you've gotten?",
+			"voice": "11",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "talk",
+			"backImage": "9",
+			"text": "Wait, we just want charcoal...",
+			"voice": "12",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "9",
+			"text": "Boop",
+			"voice": "13",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"backImage": "6",
+			"text": "Very well, but let me tell ya that I'm\nnot the same when I'm hungry!",
+			"voice": "14",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		}
+	],
+	"directory": "2shaggy"
+}
