@@ -1,0 +1,29 @@
+{
+  "scoreText": ["Score: ", "Misses: ", "Rank: "],
+  "freeplayBest": "PERSONAL BEST: ",
+  "diffs": ["Normal", "Pulenta"],
+  "blueballed": "Blueballed: ",
+  "pauseMenuItems": [
+    "Resume",
+    "Restart Song",
+    "Change Difficulty",
+    "Exit to menu"
+  ],
+  "freeplaySpace": "press SPACE to listen to the song / Press CTRL to open Gameplay Changers Menu /  Press RESET to Reset your Score and Accuracy.",
+  "psRatings": [
+    "You Suck",
+    "Shit",
+    "Bad",
+    "Bruh",
+    "Meh",
+    "Nice",
+    "Good",
+    "Great",
+    "Sick!",
+    "Perfect!!"
+  ],
+  "practiceMode": "PRACTICE MODE",
+  "chartingMode": "CHARTING MODE",
+  "storyWeekScore": "WEEK SCORE:",
+  "langAuthor": "lang system by Matriculaso/ Vanilla Texts"
+}
