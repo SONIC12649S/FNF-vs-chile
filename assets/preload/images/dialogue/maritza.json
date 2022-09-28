@@ -1,0 +1,76 @@
+{
+	"position": [
+		-550,
+		-290
+	],
+	"dialogue_pos": "left",
+	"scale": 0.299999999999999,
+	"image": "Maritza_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "maritzaNormal",
+			"idle_name": "maritzaNormalIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "maritzaWhat",
+			"idle_name": "maritzaWhatIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "maritzaHappy",
+			"idle_name": "maritzaHappyIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confident",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "maritzaConfident",
+			"idle_name": "maritzaConfidentIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Funny",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "maritzaFunny",
+			"idle_name": "maritzaFunny"
+		}
+	]
+}

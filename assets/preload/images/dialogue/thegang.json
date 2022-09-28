@@ -1,0 +1,24 @@
+{
+	"position": [
+		-720,
+		-560
+	],
+	"dialogue_pos": "left",
+	"scale": 0.299999999999999,
+	"image": "thegang",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "thegang",
+			"idle_name": "thegangIdle"
+		}
+	]
+}

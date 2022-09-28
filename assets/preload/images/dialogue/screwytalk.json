@@ -1,0 +1,24 @@
+{
+	"position": [
+		100,
+		-80
+	],
+	"dialogue_pos": "left",
+	"scale": 1.05,
+	"image": "screwytalk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "boca cerrada",
+			"loop_name": "hablar"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-550,
+		-290
+	],
+	"scale": 0.299999999999999,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "maritzaNormalIdle",
+			"loop_name": "maritzaNormal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "maritzaHappyIdle",
+			"loop_name": "maritzaHappy"
+		}
+	],
+	"image": "MaritzaPortraitweek2"
+}
