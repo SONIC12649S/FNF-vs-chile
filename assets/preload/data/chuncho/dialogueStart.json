@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"backImage": "ViernesNochewebiando1",
+			"expression": "talk",
+			"text": "SI! Lo ven? Ahora si gané!",
+			"boxState": "normal",
+			"voice": "21",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando2",
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "22",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando3",
+			"expression": "normal",
+			"text": "Uhhh, de hecho...",
+			"boxState": "normal",
+			"voice": "23",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando4",
+			"expression": "what",
+			"text": "No se lo arruines.",
+			"boxState": "normal",
+			"voice": "24",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando5",
+			"expression": "talk",
+			"text": "Bueno vas tú o voy yo?",
+			"boxState": "normal",
+			"voice": "25",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando6",
+			"expression": "excited",
+			"text": "Dejamelo a mi resfalin de piojos",
+			"boxState": "normal",
+			"voice": "26",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNocheWebiando7",
+			"text": "Te lo deje facilito el año pasado pero ahora vengo con mi temita mas brigido",
+			"voice": "26_1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"backImage": "ViernesNochewebiando8",
+			"expression": "pissed",
+			"text": "xuxa",
+			"boxState": "normal",
+			"voice": "xuxa",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": "xuxa"
+		},
+		{
+			"backImage": "ViernesNochewebiando9",
+			"expression": "pissed",
+			"text": "PREPARATE,  CONCHETUMARE",
+			"boxState": "normal",
+			"voice": "27",
+			"portrait": "nadie",
+			"speed": 0.07,
+			"sound": ""
+		}
+	],
+	"directory": "4revancha"
+}
