@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche2",
+			"text": "I don't know what to expect from you anymore. You surprise me every year",
+			"voice": "28",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "hungry",
+			"backImage": "ViernesNoche3",
+			"text": "Shaggy! the pork reebs are ready!",
+			"voice": "29",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche4",
+			"text": "Alright fellas, hanging out was neat, see ya fuckers! SCOOBY!",
+			"voice": "30",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche5",
+			"text": "xd",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche6",
+			"text": "Looks like you have one more pending revenge",
+			"voice": "31",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"backImage": "ViernesNoche7",
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNoche8",
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche9",
+			"text": "Holy fuck",
+			"voice": "32",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche10",
+			"text": "C A G A S T E",
+			"voice": "33",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		}
+	],
+	"directory": "4revancha"
+}

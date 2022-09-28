@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche2",
+			"text": "Ya no sé qué esperar de ti. Cada año me sorprendes",
+			"voice": "28",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "hungry",
+			"backImage": "ViernesNoche3",
+			"text": "Shaggy! ya está listo el costillar!",
+			"voice": "29",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche4",
+			"text": "Bueno cauros, estuvo piola juntarnos, chao culiaos. SCOOBY! SCOOBYY!",
+			"voice": "30",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche5",
+			"text": ".\\n.O",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche6",
+			"text": "Parece que te queda una revancha más.",
+			"voice": "31",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "ViernesNoche7",
+			"portrait": "nadie",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "ViernesNoche8",
+			"portrait": "nadie",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": ""
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche9",
+			"text": "Chuchamadre",
+			"voice": "32",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche10",
+			"text": "C A G A S T E",
+			"voice": "33",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "nadie"
+		}
+	],
+	"directory": "4revancha"
+}
