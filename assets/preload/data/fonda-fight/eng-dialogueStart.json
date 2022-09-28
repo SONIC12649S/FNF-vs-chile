@@ -1,0 +1,105 @@
+{
+	"dialogue": [
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Yo, Shaggy, that was pretty good!",
+			"boxState": "normal",
+			"voice": "1",
+			"portrait": "ScoobyDou",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Like, i know Scoob! Not bad, man! Well, if you'll excuse us, we have a whole aisle we gotta empty!",
+			"boxState": "normal",
+			"voice": "2",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "shocked",
+			"text": "Who the fuck emptied aisle 3?",
+			"boxState": "normal",
+			"voice": "3",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "excited",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "4",
+			"portrait": "ScoobyDou",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "excited",
+			"text": "Yoooo what's up baldy! How've you been, man?",
+			"boxState": "normal",
+			"voice": "5",
+			"portrait": "Shaggy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "confused",
+			"text": "Buying stuff for the cookout, like everyone. What's the midget doing here?",
+			"boxState": "normal",
+			"voice": "6",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "1",
+			"expression": "pissed",
+			"text": "Beep Boop",
+			"boxState": "normal",
+			"voice": "7",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "talk",
+			"text": "God fucking- can't we just have ONE week without you rap battling these losers? And it's always 3 songs, and every single time you beat their ass, please, we just want fuckin' charcoal!! asjfkldsmfklsdjakljdlsdfdsafJKLJKLFJLKFJSKLJDMKLSJFKLJDFLKASFMLSJDMLJFKKLKKKKDKMKKASKLKKFKJKKLDMSALFJAFJKLAJFKLSDJKALJDKALSJDKSLAJDKALJDAJSDJDJDJKDJKJSKDJKSJKJFDJFDJFKJFJFJFJFJFJFJJFJFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFJJJJJJJJJJJKKKKKKKKKK",
+			"boxState": "normal",
+			"voice": "8",
+			"portrait": "gf",
+			"speed": 0.01,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "9",
+			"portrait": "maavo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "2",
+			"expression": "talk",
+			"text": "Y'know what? I need charcoal too. Let's get this over with.",
+			"boxState": "normal",
+			"voice": "10",
+			"portrait": "matt",
+			"speed": 0.05,
+			"sound": ""
+		}
+	],
+	"directory": "3matt"
+}
